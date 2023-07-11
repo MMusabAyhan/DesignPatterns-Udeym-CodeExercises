@@ -1,0 +1,4 @@
+﻿  ChainOfResponsibilityCodeExercise.cpp
+PointerModifiers.obj : error LNK2005: "int __cdecl main_(void)" (?main_@@YAHXZ) already defined in ChainOfResponsibilityCodeExercise.obj
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+E:\Gaming Career\ProgrammingRelated\DesignPatternUdemy_CodeExercises\Debug\ChainOfResponsibilityCodeExercise.exe : fatal error LNK1120: 1 unresolved externals
